@@ -35,7 +35,7 @@ You have one way to run this project:
    - This programs will only print the time it took to run for a certain "n" that will be requested as input
    - Inside the code you can make changes to test the structure for different cases
    - Folder tests have some tests used when writing code 
+   - For more information about this exercises consult the Statemet
 
 ## Authors:
 - [João Silva](https://github.com/ikikara)
-- [Pedro Martins](https://github.com/PedroMartinsUC)
