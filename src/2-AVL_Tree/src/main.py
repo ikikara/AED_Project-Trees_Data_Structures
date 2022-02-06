@@ -50,7 +50,13 @@ if __name__=="__main__":
     for i in range(int(n * 0.1)):
         linhas.append("CONSULTA "+str(nums[random.randint(0,len(nums)-1)]))
 
-
+    '''[TO RUN MANUALLY]
+    l = input()
+    while l!="FIM":
+        linhas.append(l)
+        l = input()
+    '''
+        
     start = datetime.datetime.now()
     for linha in linhas:
         chave=linha.split(" ")
