@@ -11,7 +11,7 @@
 
 ## Description:
 This was the 1st project developed for Data Structures and Algorithms subject @University of Coimbra, Informatics Engineering <br>
-Consists in develop a program that make a study about time complexity (O(n)) of some operations of tree data structures like Merkle Tree, AVL Tree and Splay Tree.
+Consists in develop a group of programs that make a study about time complexity (O(n)) of some operations of tree data structures like Merkle Tree, AVL Tree and Splay Tree.
 
 #### Main Languages:
 ![](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=4F74DA)
